@@ -194,7 +194,9 @@
 
 ## 十、数理统计知识
 
--  [麻省理工公开课-线性代数](http://open.163.com/special/opencourse/daishu.html)  
+-  [麻省理工公开课-线性代数](http://open.163.com/special/opencourse/daishu.html)
+-  [麻省理工公开课-概率系统性分析和应用](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006/)
+-  [多伦多大学-数理统计课程集合](https://utstat.toronto.edu/brunner/oldpages.html) 
 -  [可汗学院公开课：线性代数](http://open.163.com/special/Khan/linearalgebra.html)  
 -  [同济大学公开课：线性代数](http://open.163.com/movie/2019/4/9/M/MEC1UPOHH_MEC1USS9M.html)  
 -  [山东大学MOOC-线性代数](https://www.icourse163.org/course/sdu-55001)  
@@ -240,12 +242,14 @@
 - [tushare财经股票基金数据接口](http://tushare.org/)
 - [akshare财经股票基金数据接口](https://akshare.readthedocs.io/zh_CN/latest/)
 - [baostock财经股票基金数据接口](http://baostock.com/baostock/index.php/%E9%A6%96%E9%A1%B5)
+- [Yahoo财经股票数据接口](https://finance.yahoo.com/sectors/financial-services/financial-data-stock-exchanges/)
 
 ## 十二、地理信息分析
 
 - [geoplot地理空间可视化官方文档](https://residentmario.github.io/geoplot/index.html) 
 - [folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
 - [geopandas地理空间数据处理官方文档](https://geopandas.org/) 
-- [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
+- [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/)
+- [Google Earth谷歌地球官方网页](https://earth.google.com/web/)
 
 
